@@ -44,6 +44,7 @@ EE5333-Physical-Design-Automation/
     ├── README.md                      ← full design write-up + results
     ├── EE22B045_EndsemProject.py      the router (detailed_route entry point)
     ├── checker.py                     the course-provided DRC / connectivity checker
+    ├── sky130.lef
     └── data/                          place c7552.def, c7552.guide, sky130.lef here
 ```
 
