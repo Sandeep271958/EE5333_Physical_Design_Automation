@@ -32,7 +32,7 @@ branch-and-bound — from scratch.
 
 ```
 EE5333-Physical-Design-Automation/
-├── README.md                          ← you are here
+├── README.md                          
 ├── assignments/
 │   ├── A1-ILP-Graph-Problems/         Minimum Dominating Set + Max-Weight Independent Set via ILP
 │   ├── A2-FM-Partitioning/            Fiduccia–Mattheyses 2-way partitioning
@@ -41,11 +41,11 @@ EE5333-Physical-Design-Automation/
 │   ├── A5-Graph-Isomorphism/          VF2-style attributed graph isomorphism
 │   └── A6-Branch-and-Bound-ILP/       Simplex + branch-and-bound ILP solver
 └── project-detailed-router/
-    ├── README.md                      ← full design write-up + results
+    ├── README.md                      full design write-up + results
     ├── EE22B045_EndsemProject.py      the router (detailed_route entry point)
     ├── checker.py                     the course-provided DRC / connectivity checker
     ├── sky130.lef
-    └── data/                          place c7552.def, c7552.guide, sky130.lef here
+    └── data/                          c7552.def, c7552.guide
 ```
 
 Each assignment folder has its own `README.md` with the problem statement, the
